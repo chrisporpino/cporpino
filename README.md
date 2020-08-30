@@ -33,7 +33,7 @@ JSON         1 hr 5 mins     ██▒░░░░░░░░░░░░░░
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cporpino)](https://github.com/cporpino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cporpino&layout=compact)](https://github.com/cporpino/github-readme-stats)
 
 
 
