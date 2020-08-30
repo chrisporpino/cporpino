@@ -32,9 +32,9 @@ JSON         1 hr 5 mins     ██▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<p align="center">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cporpino&layout=compact)](https://github.com/cporpino/github-readme-stats)
-</p>
+
 
 
 <!--
