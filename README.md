@@ -15,7 +15,7 @@ Meu nome é Christhopher Porpino, sou desenvolvedor Web Full Stack.
 
 
 
-## Techs :purple_heart: 
+## Techs  
 
 - HTML, CSS, JavaScript, TypeScript, SQL, **React.js**, Node.js e outras.
 
