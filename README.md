@@ -1,4 +1,4 @@
-# Christhopher Porpino :man_technologist:
+# Christhopher Porpino 
 
 <div align="center">
   
